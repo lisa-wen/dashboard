@@ -1,18 +1,18 @@
-﻿Land;Insgesamt;ledig;verheiratet;verwitwet;geschieden
-Deutschland insgesamt;106455;62780;39985;200;3490
-Baden-Württemberg;11075;6400;4240;20;415
-Bayern;12235;6830;4925;30;450
-Berlin;10280;6750;3235;15;280
-Brandenburg;3110;1970;1040;/;100
-Bremen;2350;1375;950;/;25
-Hamburg;4160;2365;1695;5;95
-Hessen;9090;5020;3705;20;350
-Mecklenburg-Vorpommern;2185;1515;595;/;70
-Niedersachsen;7585;4260;3100;15;210
-Nordrhein-Westfalen;23815;13375;9560;45;840
-Rheinland-Pfalz;3270;1860;1240;15;155
-Saarland;2165;1000;1110;/;55
-Sachsen;5570;3820;1550;5;195
-Sachsen-Anhalt;3100;2080;915;5;100
-Schleswig-Holstein;3400;2070;1230;10;85
-Thüringen;3060;2095;900;5;65
+﻿Land,Insgesamt,ledig,verheiratet,verwitwet,geschieden
+Deutschland insgesamt,106455,62780,39985,200,3490
+Baden-Württemberg,11075,6400,4240,20,415
+Bayern,12235,6830,4925,30,450
+Berlin,10280,6750,3235,15,280
+Brandenburg,3110,1970,1040,/,100
+Bremen,2350,1375,950,/,25
+Hamburg,4160,2365,1695,5,95
+Hessen,9090,5020,3705,20,350
+Mecklenburg-Vorpommern,2185,1515,595,/,70
+Niedersachsen,7585,4260,3100,15,210
+Nordrhein-Westfalen,23815,13375,9560,45,840
+Rheinland-Pfalz,3270,1860,1240,15,155
+Saarland,2165,1000,1110,/,55
+Sachsen,5570,3820,1550,5,195
+Sachsen-Anhalt,3100,2080,915,5,100
+Schleswig-Holstein,3400,2070,1230,10,85
+Thüringen,3060,2095,900,5,65
